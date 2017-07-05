@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/utkarshyadav5/chat-app.git"
+    "url": "git+https://github.com/utkarshyadav5/Chat-app.git"
   },
   "author": "me",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/utkarshyadav5/chat-app/issues"
+    "url": "https://github.com/utkarshyadav5/Chat-app/issues"
   },
-  "homepage": "https://github.com/utkarshyadav5/chat-app#readme",
+  "homepage": "https://github.com/utkarshyadav5/Chat-app#readme",
   "dependencies": {
     "express": "^4.15.3",
     "socket.io": "^2.0.3"
