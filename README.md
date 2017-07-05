@@ -1,8 +1,6 @@
 # Chat App
-A simple chat app using Node.js and Websocket.io
-
-
-## The Chat app will have allow you to chat with your friends without a login. A login system will be added soon.
+A simple chat app using Node.js and Websocket.io.
+The Chat app will allow you to chat with your friends without a login. A login system will be added soon.
 
 ## Requirements
 * **nodejs**
