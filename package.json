@@ -1,0 +1,22 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "A simple Chat app using websocket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshyadav5/chat-app.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarshyadav5/chat-app/issues"
+  },
+  "homepage": "https://github.com/utkarshyadav5/chat-app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
